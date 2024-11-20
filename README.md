@@ -89,6 +89,7 @@ Top must-join communities for ML:
   - [dlt](https://dlthub.com/)
   - [Sling](https://slingdata.io/)
   - [Meltano](https://meltano.com/)
+  - [Rivery](https://rivery.io)
 - Modern OLAP
   - [Apache Druid](https://druid.apache.org/)
   - [ClickHouse](https://clickhouse.com/)
